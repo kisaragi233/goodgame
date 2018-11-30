@@ -2,7 +2,7 @@
 
 [直接交給她們的父母撫養](branch1.md)
 
-還是要先做點什麼
+[還是要先做點什麼](branch2.md)
 
 ## Welcome to GitHub Pages
 
