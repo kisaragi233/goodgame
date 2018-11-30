@@ -8,7 +8,8 @@
 
 您在這裏作出的任何選擇肯定都不會影響她們的命運。
 
-## 開始
+### 開始
+
 
 You can use the [editor on GitHub](https://github.com/kisaragi233/goodgame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
