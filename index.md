@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## 這不是一個問卷調查
+
+所以不遵循問卷調查的任何原則。
+
+2018年11月，賀建奎宣佈“基因編輯嬰兒”Lulu和Nana已經降生。
+
+本故事純屬虛構，不代表社會上任何一個個體的觀點和立場。
+
+您在這裏作出的任何選擇肯定都不會影響她們的命運。
+
+## 開始
 
 You can use the [editor on GitHub](https://github.com/kisaragi233/goodgame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
