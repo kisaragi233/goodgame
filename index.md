@@ -1,16 +1,10 @@
 </head>
 <body>
-<div class="wrapper">
-<header >
+<header>
 <h1>2018的大團圓結局</h1>
         
 <p>Happy good game!</p>
-        
-<p class="view"><a href="https://github.com/kisaragi233/happilyeverafter2018">View the Project on GitHub <small></small></a></p>
-<ul>
-        
-<li><a href="https://github.com/kisaragi233/happilyeverafter2018">View On <strong>GitHub</strong></a></li>
-</ul>
+
 </header>
       
 ## 2018歡聲笑語大會
