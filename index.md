@@ -1,12 +1,3 @@
-</head>
-<body>
-<header>
-<h1>2018的大團圓結局</h1>
-        
-<p>Happy good game!</p>
-
-</header>
-      
 ## 2018歡聲笑語大會
 
 這不是一個問卷調查
